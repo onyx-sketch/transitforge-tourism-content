@@ -1,44 +1,101 @@
 # Rails & Roots by TransitForge
 
-Rails & Roots is a digital rail-tourism experience that helps South Africans discover the places, people and stories connected to a journey. TransitForge brings route context, station orientation and researched tourism content into one experience.
+**Rails & Roots is an interactive rail travel guide that helps passengers understand the places moving past their window.** It follows a simulated journey from Pretoria to Cape Town and helps travellers understand the places passing outside the window by combining a journey map with researched stories about South Africa's history, culture, landscapes and local experiences. Along the route, commuters can follow their progress, discover researched local stories and save places they may want to visit later.
 
-This repository contains content for a hackathon prototype. It does not sell train tickets, operate trains, display live departures or represent a partnership with a rail operator.
+A route map can tell a traveller where they are. Rails & Roots also helps them understand why a place matters and whether they might want to explore it on this journey or return another time.
 
-## The story we demonstrate
+**TransitForge** is the team developing Rails & Roots. This repository holds the route research and tourism content used by the prototype. It records sources and distinguishes real services from the journey we simulate. The guide does not operate trains, sell tickets or claim a partnership with a rail operator.
 
-Lerato is at Pretoria Gautrain Station. She opens Rails & Roots, signs in to the prototype and selects the Pretoria–Johannesburg–Cape Town journey.
+## The traveller's experience
 
-Her first leg is a real Gautrain route:
+We demonstrate the product through **Lerato**, a first-time traveller beginning in Pretoria.
+
+Before boarding, Lerato opens Rails & Roots and signs in to the prototype. She can look at the available journey choices, including separate journeys published by Rovos Rail and The Blue Train. For this demonstration, she chooses the TransitForge experience connecting a Gautrain ride, a Johannesburg interchange and a simulated journey towards Cape Town, which Rails and Roots preloads before she boards on the train or begin her journey
+
+As she travels, Rails & Roots helps her in four ways:
+
+| What the guide does | What Lerato gets |
+| --- | --- |
+| **Orient** | A clear route, the current stage of the journey, station names and what comes next. |
+| **Interpret** | Short, sourced stories she can read or hear about places along the route. |
+| **Connect** | Researched attractions, local food, places to stay and practical visit information where those details have been verified. |
+| **Remember** | The ability to save or star a place that interests her and consider it for a future domestic trip. |
+
+The prototype is designed to keep its core route and stories useful when mobile connectivity is weak. Its moving train position on the long-distance leg is **simulated**; it is not proof that Lerato boarded a train or that a service is operating. Journey-related questions should be answered from verified guide content, with uncertainty stated when information is missing.
+
+## Lerato's route, explained for a first-time train traveller
+
+This experience has **two rail legs and one interchange**. A *leg* is one part of the journey on a particular service. An *interchange* is where a traveller leaves one service and prepares to use another.
+
+### Leg 1: Pretoria to Gautrain Park Station
+
+Lerato begins at **Pretoria Gautrain Station**. She checks Gautrain's current departure information and pays Gautrain separately for this ride. Choosing a route inside Rails & Roots does not buy her a train ticket.
+
+Her southbound Gautrain journey follows this station order:
 
 **Pretoria → Centurion → Midrand → Sandton → Rosebank → Park**
 
-The app introduces places along the way without implying that Lerato leaves the train at every station.
+Pretoria is where she boards. Park Station is where she gets off. The stations between them show her progress; they are not automatic sightseeing stops.
 
-At Gautrain Park Station, Rails & Roots opens a new chapter: **the Johannesburg interchange**. Lerato has completed one service and must orient herself toward the adjacent Johannesburg Park Station. The app explains the change of station context and prompts her to check current signs, staff guidance and her onward travel details.
+**A dated travel-time example:** In a Gautrain journey checked for our research on **22 September 2026**, a selected train was displayed as leaving Pretoria at **20:03** and reaching Park at **20:38**. That is **35 minutes for that train ride**. The displayed fare was **R82**. It does not include time waiting at Pretoria, moving between stations in Johannesburg, or travelling towards Cape Town. Lerato must check the operator's current planner for an actual trip.
 
-The proposed Shosholoza Meyl leg from Johannesburg to Cape Town is **simulated**. As checked on 23 September 2026, we do not have a confirmed operating timetable for that service. The prototype must not show a purchasable ticket, a departure time, a platform or a guaranteed connection for this leg.
+### The Johannesburg interchange
 
-Rovos Rail and The Blue Train are separate Pretoria–Cape Town journey options. Their published routes must not be presented as Lerato's Johannesburg connection.
+When Lerato gets off at **Gautrain Park Station**, leg 1 ends. Gautrain says its underground Park Station is **adjacent to Johannesburg Park Station**, which belongs to a different station and service context.
 
-## Why domestic tourism matters
+Rails & Roots treats this as a story chapter, not a small instruction hidden between two train lines. The guide explains that Lerato has completed her Gautrain ride, shows her where the journey changes, and introduces Johannesburg through researched local stories. For a real onward trip, she would follow current station signs and staff guidance and check her next operator, ticket and boarding details.
 
-A journey can introduce a traveller to more than its final destination. Rails & Roots gives each confirmed station a place in the route, then offers deeper, researched stories where a traveller has a realistic opportunity to explore. Featured content can point people toward heritage sites, cultural experiences and, eventually, verified local tourism businesses.
+We have **not established** an exact walking route, walking time, platform, through-ticket or guaranteed connection. The prototype must not invent any of them.
 
-The proposed value is to help South Africans discover destinations in their own country and give smaller places a chance to be considered alongside major attractions. That is a product goal, **not a claim that the prototype has already increased visits or spending**. South Africa's Tourism Growth Partnership Plan identifies domestic marketing and routes and experiences as priorities.
+### Leg 2: a simulated Johannesburg–Cape Town journey
 
-## Content rules
+After the interchange, the demonstration follows the **historically documented Shosholoza Meyl Johannesburg–Cape Town corridor**. This lets Rails & Roots demonstrate how its guide could tell stories across the country, including at places a traveller might otherwise pass without understanding.
 
-- Include every confirmed station on an operating segment, even if its record is brief.
-- Give featured locations richer content backed by official sources.
-- Keep train stations, nearby attractions and operator excursions distinct.
-- Label a suspended or unverified service as a simulation.
-- Verify operating status, stop patterns, accessibility, prices and opening hours before showing travel advice.
-- Use operator names to identify their services, without implying endorsement or partnership.
+The Competition Commission documented the following historical station order in its passenger-transport inquiry:
 
-## Repository files
+**Johannesburg Park → Krugersdorp → Potchefstroom → Klerksdorp → Bloemhof → Christiana → Warrenton → Kimberley → De Aar → Hutchinson → Beaufort West → Laingsburg → Matjiesfontein → Worcester → Wellington → Huguenot (Paarl area) → Bellville → Cape Town**
 
-- `data/journey.json` — the ordered Lerato demonstration and separate journey options.
-- `data/experiences.json` — researched examples of domestic tourism content.
-- `SOURCES.md` — evidence and checks still required.
+That is **18 station names, including Johannesburg Park and Cape Town**. We have corrected the spelling of Laingsburg and Bellville from errors in the published report.
 
-**Status:** Hackathon prototype. **Last research check:** 23 September 2026.
+This sequence documents a **past service pattern**. It is not a current timetable. As checked in September 2026, the Johannesburg–Cape Town Shosholoza Meyl service is suspended. Rails & Roots therefore labels this leg as a **simulation** and does not show a purchasable ticket, live departure, fare, platform, guaranteed stop duration or arrival time.
+
+## Why we chose this route
+
+The hackathon journey begins in **Pretoria** and ends in **Cape Town**. We chose PRASA's Mainline Passenger Services route because it was considered the most affordable, but the problem was that it starts in Johannesburg Park Station, and that's where Gautrain comes in to bridge that gap between Pretoria and Joburg, giving our journey two legs. Even though Johannesburg to Cape Town corridor used by the Shosholoza Meyl is currently suspended and Gautrain gives our story an operating first leg from Pretoria to Johannesburg, Rails and Roots then gives researched information about the stops along this passenger service corridor from Johannesburg to Cape Town. The Johannesburg to Cape Town corridor used by the Shosholoza Meyl is currently suspended and Gautrain gives our story an operating first leg from Pretoria to Johannesburg.
+
+This choice also gives Rails & Roots a meaningful problem to solve. Someone new to rail travel may not realise that arriving at Gautrain Park Station does not mean they have already boarded the next service. The app makes the interchange understandable and keeps the traveller's story connected across it.
+
+PRASA’s Mainline Passenger Services corridor passes through **Gauteng, North West, the Northern Cape and the Western Cape**. Its smaller towns matter to the tourism story. A passenger can learn about a place while passing through and save it for a future visit. We intend to explore a public-corridor experience that could reach a wider domestic audience; we will not claim a price advantage without current, comparable fares.
+
+Since PRASA’s Mainline Passenger Services is still suspended, a traveller can still choose to use Rovos Rail and The Blue Train which remain valid and have **separate Pretoria–Cape Town choices**. Their routes and excursions are not combined with Lerato's Johannesburg–Cape Town simulation.
+
+## How the guide promotes domestic tourism
+
+Rails & Roots turns a location on a route into a reason to learn more. A featured place receives a sourced arrival story and useful visitor information. A smaller supporting stop still receives accurate context, so the journey remains continuous. A place seen from the train can become a trip planned for later. Travelers have a portable travel agent with them keeping them up to date on places they are passing by. Uses trains that are for the people and easily accessible.
+
+Tourism content must distinguish between:
+
+- **A station:** where a train historically or currently calls.
+- **A pass-through place:** a location the journey passes without a confirmed passenger stop.
+- **An attraction:** a separate place that requires its own access and opening information.
+- **A local business:** a verified listing, never an assumed partner.
+
+Our proposed benefit is more discovery of South African destinations and potential visibility for local tourism businesses. The hackathon prototype has **not yet measured** additional visits, bookings or spending. The Department of Tourism's Tourism Growth Partnership Plan identifies domestic marketing and the development of routes and experiences as priorities relevant to this idea.
+
+## How this content repository will work
+
+We are building the repository one researched file at a time. Its route records will preserve the full station order. Its stop records will give featured locations deeper stories and supporting locations concise, factual profiles. Experience records will keep attractions and businesses separate from rail stops.
+
+Every factual claim needs a source. Each record should state when its information was checked. Changing details such as train status, fares, opening hours, accessibility and local transport must be checked again before the guide gives real travel advice. We will not describe an attraction as walkable from a station without verifying the actual route.
+
+## Core research sources
+
+- [Gautrain: commuter service and stations](https://www.gautrain.co.za/commuter/generalinformation)
+- [Gautrain: Pretoria Station](https://www.gautrain.co.za/commuter/stationinfo?stationName=Pretoria)
+- [Gautrain: Park Station and Johannesburg adjacency](https://www.gautrain.co.za/commuter/stationinfo?stationName=Park)
+- [Competition Commission: final Land Based Public Passenger Transport Market Inquiry, paragraph 6.27](https://compcom.co.za/wp-content/uploads/2021/04/PTMI-Non-Confidential-14-April-2021-FINAL.pdf)
+- [Department of Tourism: Tourism Growth Partnership Plan 2025–2030](https://www.tourism.gov.za/AboutNDT/Publications/ABRIDGED%20Tourism%20Growth%20Partnership%20Plan%202025-2030.pdf)
+- [March 2026 reporting on PRASA's suspended long-distance services](https://groundup.org.za/article/uncertainty-surrounds-prasas-long-distance-train-plans/)
+- Team route research dossier and dated Gautrain journey capture, 22 September 2026
+
+**Research checked:** 23 September 2026.
