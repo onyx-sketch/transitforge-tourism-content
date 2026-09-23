@@ -1,0 +1,15 @@
+{
+  "category": "nature",
+  "researchChecked": "2026-09-23",
+  "experiences": [
+    {
+      "id": "table-mountain",
+      "placeId": "cape-town",
+      "name": "Table Mountain",
+      "type": "mountain_and_visitor_attraction",
+      "description": "A Cape Town landscape that travellers can explore separately from the rail journey, including through the Table Mountain Aerial Cableway.",
+      "source": "https://www.tablemountain.net/"
+    }
+  ],
+  "visitorNote": "Cableway operation can change with conditions. Check the operator's current notices, tickets and accessibility information before a visit."
+}
