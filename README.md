@@ -10,7 +10,7 @@ A route map can tell a traveller where they are. Rails & Roots also helps them u
 
 We demonstrate the product through **Lerato**, a first-time traveller beginning in Pretoria.
 
-Before boarding, Lerato opens Rails & Roots and signs in to the prototype. She can look at the available journey choices, including separate journeys published by Rovos Rail and The Blue Train. For this demonstration, she chooses the TransitForge experience connecting a Gautrain ride, a Johannesburg interchange and a simulated journey towards Cape Town, which Rails and Roots preloads before she boards on the train or begin her journey
+Before boarding, Lerato opens Rails & Roots and signs in to the prototype. She can look at the available journey choices, including separate journeys published by Rovos Rail and The Blue Train. For this demonstration, she chooses the TransitForge experience connecting a Gautrain ride, a Johannesburg interchange and a simulated journey towards Cape Town, which Rails and Roots preloads before she boards on the train or begin her journey.
 
 As she travels, Rails & Roots helps her in four ways:
 
