@@ -61,7 +61,11 @@ This sequence documents a **past service pattern**. It is not a current timetabl
 
 ## Why we chose this route
 
-The hackathon journey begins in **Pretoria** and ends in **Cape Town**. We chose PRASA's Mainline Passenger Services route because it was considered the most affordable, but the problem was that it starts in Johannesburg Park Station, and that's where Gautrain comes in to bridge that gap between Pretoria and Joburg, giving our journey two legs. Even though Johannesburg to Cape Town corridor used by the Shosholoza Meyl is currently suspended and Gautrain gives our story an operating first leg from Pretoria to Johannesburg, Rails and Roots then gives researched information about the stops along this passenger service corridor from Johannesburg to Cape Town. The Johannesburg to Cape Town corridor used by the Shosholoza Meyl is currently suspended and Gautrain gives our story an operating first leg from Pretoria to Johannesburg.
+The hackathon journey begins in **Pretoria** and ends in **Cape Town**. We chose to follow PRASA's **Shosholoza Meyl**, part of its Mainline Passenger Services, because it offered an affordable way to travel long distances. But its Johannesburg–Cape Town journey began at **Johannesburg Park Station**, leaving a gap between our starting point and the long-distance route.
+
+**Gautrain bridges that gap.** Lerato takes Gautrain from Pretoria to Gautrain Park Station in Johannesburg. There, she leaves Gautrain and makes her way to the separate Johannesburg Park Station for the second leg of our story. This interchange is a key part of Rails & Roots: it shows how two rail services connect to make the journey possible.
+
+The Shosholoza Meyl service between Johannesburg and Cape Town is currently suspended, so **Lerato's second leg is simulated**. Rails & Roots follows its historically documented route to introduce the stops, the places around them, and experiences travellers might choose to explore. That is how the guide uses a rail journey to spark interest in domestic tourism, even while this service is unavailable.
 
 This choice also gives Rails & Roots a meaningful problem to solve. Someone new to rail travel may not realise that arriving at Gautrain Park Station does not mean they have already boarded the next service. The app makes the interchange understandable and keeps the traveller's story connected across it.
 
