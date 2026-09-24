@@ -1,0 +1,38 @@
+{
+  "id": "worcester",
+  "name": "Worcester",
+  "province": "Western Cape",
+  "routeId": "transitforge-pretoria-cape-town",
+  "leg": 2,
+  "historicalStationPosition": 13,
+  "category": "supporting",
+  "researchChecked": "2026-09-23",
+  "railStatus": "historical_route_simulation",
+  "story": "Near Worcester, the landscape opens into the Breede Valley and a possible future trip through its vineyards and olive producers.",
+  "history": "The Worcester Wine & Olive Route presents the town’s wider wine and olive growing area as a visitor destination.",
+  "experience": {
+    "activity": "Research a tasting or food experience on the Worcester Wine & Olive Route.",
+    "site": "Worcester Wine & Olive Route",
+    "url": "https://visitwinelands.co.za/worcester-wine-olive-route/",
+    "visitType": "separately_planned_trip"
+  },
+  "visitorNote": "The historical station list does not establish a current passenger service, train stop length, connection to the site, or visitor opening hours. Check access and transport before making plans.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Worcester_station.JPG",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Worcester_station.JPG",
+    "creator": "Nils Öberg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "alt": "2005 heritage train photo; it does not show today’s passenger service."
+  },
+  "sources": [
+    {
+      "claim": "Historical station order",
+      "url": "https://compcom.co.za/wp-content/uploads/2021/04/PTMI-Non-Confidential-14-April-2021-FINAL.pdf"
+    },
+    {
+      "claim": "Local history and visitor site",
+      "url": "https://visitwinelands.co.za/worcester-wine-olive-route/"
+    }
+  ]
+}
