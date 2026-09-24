@@ -1,0 +1,39 @@
+{
+  "id": "worcester",
+  "name": "Worcester",
+  "province": "Western Cape",
+  "routeId": "transitforge-pretoria-cape-town",
+  "leg": 2,
+  "historicalStationPosition": 13,
+  "category": "supporting",
+  "researchChecked": "2026-09-23",
+  "railStatus": "historical_route_simulation",
+  "story": "Near Worcester, the landscape opens into the Breede Valley and a possible future trip through its vineyards and olive producers.",
+  "history": "The Worcester Wine & Olive Route presents the town’s wider wine and olive growing area as a visitor destination.",
+  "experience": {
+    "activity": "Explore the indigenous arid-region plant collections at the Karoo Desert National Botanical Garden.",
+    "site": "Karoo Desert National Botanical Garden",
+    "url": "https://www.sanbi.org/gardens/karoo-desert/",
+    "visitType": "separately_planned_trip"
+  },
+  "visitorNote": "The historical station list does not establish a current passenger service, train stop length, connection to the site, or visitor opening hours. Check access and transport before making plans.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pachypodium_namaquanum_1DS-II_5619.jpg",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Pachypodium_namaquanum_1DS-II_5619.jpg",
+    "creator": "SAplants",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "alt": "Pachypodium flower photographed in Worcester’s Karoo Desert National Botanical Garden; shows a plant in the garden, not an entire landscape.",
+    "permissionContact": null
+  },
+  "sources": [
+    {
+      "claim": "Historical station order",
+      "url": "https://compcom.co.za/wp-content/uploads/2021/04/PTMI-Non-Confidential-14-April-2021-FINAL.pdf"
+    },
+    {
+      "claim": "Local history and visitor site",
+      "url": "https://www.sanbi.org/gardens/karoo-desert/"
+    }
+  ]
+}
