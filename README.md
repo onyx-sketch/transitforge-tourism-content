@@ -6,7 +6,7 @@ Rails & Roots is TransitForge's interactive rail travel guide prototype. Follow 
 
 **Know before you go:** The Johannesburg–Cape Town Shosholoza Meyl leg in this prototype is a simulation, not a train you can book through Rails & Roots. Rovos Rail and The Blue Train are separate journey choices whose current details must be confirmed with their operators.
 
-**Explore the content:** [All places and photographs](docs/stops-and-images.md) · [Tourism and business proposal](docs/business-proposal.md) · [Research sources](sources/references.md)
+**Explore the content:** [Complete journey story for all 23 route points](docs/all-stops-content.md) · [All places and photographs](docs/stops-and-images.md) · [Tourism and business proposal](docs/business-proposal.md) · [Research sources](sources/references.md)
 
 **Rails & Roots is an interactive rail travel guide that helps passengers understand the places moving past their window.** It follows a simulated journey from Pretoria to Cape Town and helps travellers understand the places passing outside the window by combining a journey map with researched stories about South Africa's history, culture, landscapes and local experiences. Along the route, commuters can follow their progress, discover researched local stories and save places they may want to visit later.
 
