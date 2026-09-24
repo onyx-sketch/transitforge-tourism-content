@@ -1,31 +1,29 @@
 # Rails & Roots content model
 
-The repository separates routes, stops and experiences so that a rail station is never mistaken for an attraction.
+The repository separates train route, places, things to explore and source evidence. A historical station is never automatically a bookable stop or an attraction.
 
-## Routes: `data/routes/`
+## Route
 
-A route record identifies its operator or services, the journey it represents, its status, the places confirmed by its sources, and links to those sources.
+`data/routes/transitforge-route.json` gives Lerato's operating Gautrain leg, the Johannesburg interchange, and the historical Johannesburg–Cape Town station order used for the simulated second leg. `blue-train-route.json` and `rovos-rail-route.json` represent separate operator journeys; do not merge their stops or tickets into Lerato's route.
 
-`transitforge-route.json` contains Lerato's two-leg experience. `blue-train-route.json` and `rovos-rail-route.json` describe separate operator journeys. A place appearing in one journey does not automatically become a stop on another.
+## Places
 
-## Stops: `data/stops/`
+`data/stops/` contains **one JSON file for each place**: five featured records (Pretoria, Johannesburg, Kimberley, Beaufort West, Cape Town) and fourteen supporting records. The 18 historical second-leg names include Johannesburg and Cape Town; Pretoria is the additional first-leg start. Supporting records give a story, history, separate visitor activity and site, image attribution, and source links. `historicalStationPosition` is zero based within leg 2, so Krugersdorp is 1 after Johannesburg at 0.
 
-A stop record identifies a place by `id` and `name`. It explains its role in the route, gives a short sourced story, and links to separate experiences through `experienceIds`.
+Featured records use `experienceIds` to point into `data/experiences/`. The supporting records embed one small `experience` object so each JSON can be read independently. An attraction is outside the station unless evidence proves otherwise. Hutchinson's record points to a separately planned visit in nearby Victoria West and explicitly says its image is of Victoria West.
 
-The five individual stop files are initial featured content records. The complete 18-station historical sequence remains in `data/routes/transitforge-route.json`. A station without a featured file must not acquire an invented story or attraction.
+## Images
 
-## Experiences: `data/experiences/`
+Five featured photographs are files in `assets/images/`. Supporting records have a Wikimedia Commons `image.url`, `filePage`, `creator`, `license`, `licenseUrl`, and `alt`; these are remotely hosted pictures and require network access. Read [`assets/images/README.md`](../assets/images/README.md) for full credits. No operator or photographer endorsement is implied.
 
-An experience is something a person could discover beyond the train: heritage, food, nature or culture. Each entry has its own `id`, `placeId`, description and source. An experience is not automatically included in a train ticket or reachable during a train stop.
+## Source and freshness
 
-## Sources: `sources/`
+Each supporting record cites the Competition Commission for historical station order and a local tourism, museum, park, university or government page for its visitor story. `researchChecked` is the date of review, not a travel date. Check live service status, museum availability, ticketing, directions and accessibility with the relevant providers before planning a real trip. Never infer a stopover duration or a walk to a site from the historical route list.
 
-`references.md` lists the research links and what they support. A link in an individual JSON record keeps the evidence close to the claim used by the prototype.
+## Status
 
-## Status language
+- `operating`: the operator offers a service, subject to a departure check.
+- `simulation_only`: the prototype cannot be treated as a current booking.
+- `operator_listed_route`: the operator publishes a journey, but no specific departure is verified by this record.
 
-- `operating`: an operator provides the service; check a particular departure before travel.
-- `simulation_only`: the prototype represents a journey that cannot be treated as a current booking.
-- `operator_listed_route`: the operator publishes the journey, but this record does not verify a date-specific departure.
-
-Dates in these files say when information was researched, not when a traveller will take the trip.
+The visual index in [`docs/stops-and-images.md`](stops-and-images.md) shows the complete sequence.

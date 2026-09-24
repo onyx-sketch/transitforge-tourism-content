@@ -1,0 +1,38 @@
+{
+  "id": "de-aar",
+  "name": "De Aar",
+  "province": "Northern Cape",
+  "routeId": "transitforge-pretoria-cape-town",
+  "leg": 2,
+  "historicalStationPosition": 8,
+  "category": "supporting",
+  "researchChecked": "2026-09-23",
+  "railStatus": "historical_route_simulation",
+  "story": "De Aar makes the railway itself the story: connections to different regions helped shape this Northern Cape town.",
+  "history": "Northern Cape Tourism describes De Aar as a major rail junction linking Johannesburg, Cape Town, Port Elizabeth and Namibia.",
+  "experience": {
+    "activity": "Explore the town’s Garden of Remembrance as part of a separately planned visit.",
+    "site": "Garden of Remembrance",
+    "url": "https://www.experiencenortherncape.com/cities-towns-and-neighbourhoods-3/de-aar/",
+    "visitType": "separately_planned_trip"
+  },
+  "visitorNote": "The historical station list does not establish a current passenger service, train stop length, connection to the site, or visitor opening hours. Check access and transport before making plans.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Station_De_Aar.JPG",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Station_De_Aar.JPG",
+    "creator": "Col André Kritzinger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "alt": "Station photograph; the garden is a separate site."
+  },
+  "sources": [
+    {
+      "claim": "Historical station order",
+      "url": "https://compcom.co.za/wp-content/uploads/2021/04/PTMI-Non-Confidential-14-April-2021-FINAL.pdf"
+    },
+    {
+      "claim": "Local history and visitor site",
+      "url": "https://www.experiencenortherncape.com/cities-towns-and-neighbourhoods-3/de-aar/"
+    }
+  ]
+}

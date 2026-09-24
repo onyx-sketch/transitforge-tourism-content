@@ -9,6 +9,14 @@
       "type": "mountain_and_visitor_attraction",
       "description": "A Cape Town landscape that travellers can explore separately from the rail journey, including through the Table Mountain Aerial Cableway.",
       "source": "https://www.tablemountain.net/"
+    },
+    {
+      "id": "karoo-national-park",
+      "placeId": "beaufort-west",
+      "name": "Karoo National Park",
+      "type": "national_park",
+      "description": "A separately planned visit to discover the Karoo landscape, wildlife and fossil trail near Beaufort West.",
+      "source": "https://www.sanparks.org/parks/karoo/what-to-do/activities/hikes-walks-trails"
     }
   ],
   "visitorNote": "Cableway operation can change with conditions. Check the operator's current notices, tickets and accessibility information before a visit."

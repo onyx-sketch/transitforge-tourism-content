@@ -33,6 +33,14 @@
       "type": "local_museums",
       "description": "Museums in the village that interpret aspects of its railway and local history.",
       "source": "https://www.matjiesfontein.com/pages/museums/"
+    },
+    {
+      "id": "beaufort-west-museum",
+      "placeId": "beaufort-west",
+      "name": "Beaufort West Museum",
+      "type": "local_heritage_museum",
+      "description": "A set of historic Beaufort West buildings interpreting the town's people and heritage, visited separately from its station.",
+      "source": "https://beaufortwest.net/explore/beaufort-west/attractions/beaufort-west-museum.html"
     }
   ],
   "visitorNote": "Confirm each attraction's current access, prices and hours before recommending a visit."
