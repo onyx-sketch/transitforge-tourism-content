@@ -11,19 +11,20 @@
   "story": "This Karoo settlement makes the rail connection visible: its museum occupies the station building itself.",
   "history": "James Douglas Logan obtained the station refreshment room concession in 1884; the station precinct now contains a railway museum.",
   "experience": {
-    "activity": "Explore the Railway Museum and its former station master’s office and signal room.",
-    "site": "Matjiesfontein Railway Museum",
-    "url": "https://www.matjiesfontein.com/pages/museums/",
+    "activity": "Explore Matjiesfontein’s heritage precinct and enquire about visits to the Lord Milner Hotel and Railway Museum.",
+    "site": "Lord Milner Hotel and Matjiesfontein heritage precinct",
+    "url": "https://www.matjiesfontein.com/",
     "visitType": "separately_planned_trip"
   },
   "visitorNote": "The historical station list does not establish a current passenger service, train stop length, connection to the site, or visitor opening hours. Check access and transport before making plans.",
   "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Station_Matjiesfontein_N1.JPG",
-    "filePage": "https://commons.wikimedia.org/wiki/File:Station_Matjiesfontein_N1.JPG",
-    "creator": "Col André Kritzinger",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lord_Milner_Hotel_at_Matjiesfontein.jpg",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Lord_Milner_Hotel_at_Matjiesfontein.jpg",
+    "creator": "Gregorydavid",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "alt": "Station photograph; check the museum’s access arrangements separately."
+    "alt": "Lord Milner Hotel in historic Matjiesfontein, photographed in 2007.",
+    "permissionContact": null
   },
   "sources": [
     {
@@ -32,7 +33,7 @@
     },
     {
       "claim": "Local history and visitor site",
-      "url": "https://www.matjiesfontein.com/pages/museums/"
+      "url": "https://www.matjiesfontein.com/"
     }
   ]
 }

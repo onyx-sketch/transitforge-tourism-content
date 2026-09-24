@@ -11,19 +11,20 @@
   "story": "De Aar makes the railway itself the story: connections to different regions helped shape this Northern Cape town.",
   "history": "Northern Cape Tourism describes De Aar as a major rail junction linking Johannesburg, Cape Town, Port Elizabeth and Namibia.",
   "experience": {
-    "activity": "Explore the town’s Garden of Remembrance as part of a separately planned visit.",
-    "site": "Garden of Remembrance",
-    "url": "https://www.experiencenortherncape.com/cities-towns-and-neighbourhoods-3/de-aar/",
+    "activity": "Explore De Aar’s railway-linked heritage through the exterior of St Paul’s Church; ask before entering.",
+    "site": "St Paul’s Anglican Church",
+    "url": "https://heritageontheair.co.za/sites/169",
     "visitType": "separately_planned_trip"
   },
   "visitorNote": "The historical station list does not establish a current passenger service, train stop length, connection to the site, or visitor opening hours. Check access and transport before making plans.",
   "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Station_De_Aar.JPG",
-    "filePage": "https://commons.wikimedia.org/wiki/File:Station_De_Aar.JPG",
-    "creator": "Col André Kritzinger",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St._Pauls_Church,_De_Aar.JPG",
+    "filePage": "https://commons.wikimedia.org/wiki/File:St._Pauls_Church,_De_Aar.JPG",
+    "creator": "Andrew Hall",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "alt": "Station photograph; the garden is a separate site."
+    "alt": "St Paul’s Anglican Church, a protected heritage building in De Aar; exterior viewing only unless access is confirmed.",
+    "permissionContact": null
   },
   "sources": [
     {
@@ -32,7 +33,7 @@
     },
     {
       "claim": "Local history and visitor site",
-      "url": "https://www.experiencenortherncape.com/cities-towns-and-neighbourhoods-3/de-aar/"
+      "url": "https://heritageontheair.co.za/sites/169"
     }
   ]
 }

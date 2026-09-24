@@ -11,19 +11,20 @@
   "story": "Huguenot is a station name near Paarl, a prompt to discover the area’s layered language history without confusing the stop with a sightseeing venue.",
   "history": "The Afrikaans Language Museum in Paarl documents the language’s complex development and events connected to its formal recognition.",
   "experience": {
-    "activity": "Plan a separate visit to the Afrikaans Language Museum or Monument in Paarl.",
-    "site": "Afrikaans Language Museum and Monument",
-    "url": "https://taalmuseum.co.za/en/visitors-information-language-museum/",
+    "activity": "Plan a separate visit to the monument in Paarl and learn about the language’s layered history.",
+    "site": "Afrikaans Language Monument",
+    "url": "https://taalmuseum.co.za/en/visitors-information-language-monument/",
     "visitType": "separately_planned_trip"
   },
   "visitorNote": "The historical station list does not establish a current passenger service, train stop length, connection to the site, or visitor opening hours. Check access and transport before making plans.",
   "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Railway_lines_at_the_Huguenot_Station_in_Paarl,_South_Africa.jpg",
-    "filePage": "https://commons.wikimedia.org/wiki/File:Railway_lines_at_the_Huguenot_Station_in_Paarl,_South_Africa.jpg",
-    "creator": "Lefcentreright",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "alt": "Photo shows the station area; the museum and monument are elsewhere in Paarl."
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Afrikaans_Language_Monument.jpg",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Afrikaans_Language_Monument.jpg",
+    "creator": "Schavda",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "alt": "Afrikaans Language Monument in Paarl; a separate journey from the Huguenot railway location.",
+    "permissionContact": null
   },
   "sources": [
     {
@@ -32,7 +33,7 @@
     },
     {
       "claim": "Local history and visitor site",
-      "url": "https://taalmuseum.co.za/en/visitors-information-language-museum/"
+      "url": "https://taalmuseum.co.za/en/visitors-information-language-monument/"
     }
   ]
 }

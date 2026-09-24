@@ -11,19 +11,20 @@
   "story": "The river landscape continues at Christiana, where diamond digging added another chapter to life along the Vaal.",
   "history": "The area’s history includes diamond digging near the Vaal River; the provincial government identifies the Diggers’ Diamond Museum in Christiana.",
   "experience": {
-    "activity": "Investigate the Diggers’ Diamond Museum and the town’s river history before arranging a visit.",
-    "site": "Diggers’ Diamond Museum",
-    "url": "https://www.gov.za/speeches/vtsd-communities-encouraged-use-platforms-created-provincial-government-grow-their-economy",
+    "activity": "Discover the Vaal River landscape on a separately arranged local outing; the Diggers’ Diamond Museum offers another history lead, subject to confirmation.",
+    "site": "Vaal River at Christiana",
+    "url": "https://www.clickchristiana.co.za/moderne-christiana-gallery.php",
     "visitType": "separately_planned_trip"
   },
   "visitorNote": "The historical station list does not establish a current passenger service, train stop length, connection to the site, or visitor opening hours. Check access and transport before making plans.",
   "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Station_Christiana_1.JPG",
-    "filePage": "https://commons.wikimedia.org/wiki/File:Station_Christiana_1.JPG",
-    "creator": "Col André Kritzinger",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "alt": "Station photograph; current museum opening status has not been confirmed."
+    "url": null,
+    "filePage": "https://www.clickchristiana.co.za/moderne-christiana-gallery.php",
+    "creator": "Dr Robert Boizard",
+    "license": "Permission required",
+    "licenseUrl": null,
+    "alt": "Early morning view of the Vaal River at Christiana, photographed by Dr Robert Boizard; image accessible on Click Christiana; ask the site to connect you with the photographer before embedding or uploading.",
+    "permissionContact": "info@clickchristiana.co.za"
   },
   "sources": [
     {
@@ -32,7 +33,7 @@
     },
     {
       "claim": "Local history and visitor site",
-      "url": "https://www.gov.za/speeches/vtsd-communities-encouraged-use-platforms-created-provincial-government-grow-their-economy"
+      "url": "https://www.clickchristiana.co.za/moderne-christiana-gallery.php"
     }
   ]
 }

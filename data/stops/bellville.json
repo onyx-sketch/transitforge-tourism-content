@@ -18,12 +18,13 @@
   },
   "visitorNote": "The historical station list does not establish a current passenger service, train stop length, connection to the site, or visitor opening hours. Check access and transport before making plans.",
   "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BS2018.jpg",
-    "filePage": "https://commons.wikimedia.org/wiki/File:BS2018.jpg",
-    "creator": "Barry Ne",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "alt": "2018 Bellville station image; it cannot verify current service or station access."
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tygerberg_Nature_Reserve_-_City_of_Cape_Town_5.jpg",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Tygerberg_Nature_Reserve_-_City_of_Cape_Town_5.jpg",
+    "creator": "Abu Shawka",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "alt": "Tygerberg Nature Reserve landscape; a separate local trip from Bellville station.",
+    "permissionContact": null
   },
   "sources": [
     {

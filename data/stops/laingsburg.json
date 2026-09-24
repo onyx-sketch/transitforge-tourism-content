@@ -18,12 +18,13 @@
   },
   "visitorNote": "The historical station list does not establish a current passenger service, train stop length, connection to the site, or visitor opening hours. Check access and transport before making plans.",
   "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Station_Laingsburg_S1.JPG",
-    "filePage": "https://commons.wikimedia.org/wiki/File:Station_Laingsburg_S1.JPG",
-    "creator": "Col André Kritzinger",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "alt": "Station photograph; the museum is a separate place."
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laingsburg_Flood_Museum.jpg",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Laingsburg_Flood_Museum.jpg",
+    "creator": "flowcomm",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "alt": "Laingsburg Flood Museum exterior, where the 1981 flood is remembered; confirm opening arrangements.",
+    "permissionContact": null
   },
   "sources": [
     {

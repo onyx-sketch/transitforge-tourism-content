@@ -11,19 +11,20 @@
   "story": "Hutchinson is a reminder that railway places can be small: its rail connection served Victoria West, which lies away from the line.",
   "history": "Northern Cape Tourism explains that the railway missed Victoria West by roughly 12 km and refers readers to Hutchinson.",
   "experience": {
-    "activity": "For a separately arranged trip, explore the Victoria Trading Post and Mannetjies Roux Museum in nearby Victoria West.",
-    "site": "Victoria Trading Post and Mannetjies Roux Museum",
+    "activity": "If arranging onward road transport to Victoria West, explore its heritage buildings; this photograph shows its Dutch Reformed Church.",
+    "site": "Victoria West heritage architecture",
     "url": "https://www.experiencenortherncape.com/cities-towns-and-neighbourhoods-4/victoria-west/",
     "visitType": "separately_planned_trip"
   },
   "visitorNote": "The historical station list does not establish a current passenger service, train stop length, connection to the site, or visitor opening hours. Check access and transport before making plans.",
   "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoria_West,_South_Africa_-_panoramio_-_Graham_Maclachlan.jpg",
-    "filePage": "https://commons.wikimedia.org/wiki/File:Victoria_West,_South_Africa_-_panoramio_-_Graham_Maclachlan.jpg",
-    "creator": "Graham Maclachlan",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dutch_Reformed_Church,_Victoria_West.JPG",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Dutch_Reformed_Church,_Victoria_West.JPG",
+    "creator": "Andrew Hall",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "alt": "Photo shows nearby Victoria West, NOT Hutchinson or its station; an onward road trip is needed."
+    "alt": "Dutch Reformed Church in nearby Victoria West, NOT Hutchinson; requires a separate onward road trip.",
+    "permissionContact": null
   },
   "sources": [
     {
