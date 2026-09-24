@@ -1,0 +1,39 @@
+{
+  "id": "krugersdorp",
+  "name": "Krugersdorp",
+  "province": "Gauteng",
+  "routeId": "transitforge-pretoria-cape-town",
+  "leg": 2,
+  "historicalStationPosition": 1,
+  "category": "supporting",
+  "researchChecked": "2026-09-23",
+  "railStatus": "historical_route_simulation",
+  "story": "The first named place after Johannesburg in the historical sequence opens a story about the towns west of the city. Krugersdorp’s old courthouse now houses a museum of local history and culture.",
+  "history": "The old magistrate’s court became the Krugersdorp Museum, established in 1993.",
+  "experience": {
+    "activity": "Plan a separate excursion to the waterfall and garden near Krugersdorp; check travel from the historical rail route.",
+    "site": "Walter Sisulu National Botanical Garden",
+    "url": "https://www.sanbi.org/gardens/walter-sisulu/",
+    "visitType": "separately_planned_trip"
+  },
+  "visitorNote": "The historical station list does not establish a current passenger service, train stop length, connection to the site, or visitor opening hours. Check access and transport before making plans.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Walter_Sisulu_National_Botanical_Garden_-_view_to_waterfall_2011.jpg",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Walter_Sisulu_National_Botanical_Garden_-_view_to_waterfall_2011.jpg",
+    "creator": "Martin F. Smit",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "alt": "Witpoortjie waterfall at Walter Sisulu National Botanical Garden, a separate excursion in Roodepoort west of Johannesburg; not at Krugersdorp station.",
+    "permissionContact": null
+  },
+  "sources": [
+    {
+      "claim": "Historical station order",
+      "url": "https://compcom.co.za/wp-content/uploads/2021/04/PTMI-Non-Confidential-14-April-2021-FINAL.pdf"
+    },
+    {
+      "claim": "Local history and visitor site",
+      "url": "https://www.sanbi.org/gardens/walter-sisulu/"
+    }
+  ]
+}

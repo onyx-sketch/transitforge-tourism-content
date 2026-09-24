@@ -1,0 +1,26 @@
+{
+  "id": "johannesburg",
+  "name": "Johannesburg",
+  "province": "Gauteng",
+  "researchChecked": "2026-09-23",
+  "routeRole": "Interchange city and starting point of the simulated long-distance leg",
+  "stations": [
+    "Gautrain Park Station",
+    "Johannesburg Park Station"
+  ],
+  "story": "Johannesburg is where Lerato's journey changes character. She finishes an operating Gautrain ride, then follows a simulated historical route from the separate Johannesburg Park Station. Rails & Roots uses the change to help her understand both the transport connection and the city around it.",
+  "experienceIds": [
+    "constitution-hill"
+  ],
+  "visitorNote": "Constitution Hill is a separate heritage attraction, not part of the station interchange. Its walking or transport connection has not been verified here.",
+  "sources": [
+    {
+      "title": "Gautrain Park Station",
+      "url": "https://www.gautrain.co.za/commuter/stationinfo?stationName=Park"
+    },
+    {
+      "title": "Constitution Hill: what to expect",
+      "url": "https://www.constitutionhill.org.za/pages/what-to-expect"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "matjiesfontein",
+  "name": "Matjiesfontein",
+  "province": "Western Cape",
+  "routeId": "transitforge-pretoria-cape-town",
+  "leg": 2,
+  "historicalStationPosition": 12,
+  "category": "supporting",
+  "researchChecked": "2026-09-23",
+  "railStatus": "historical_route_simulation",
+  "story": "This Karoo settlement makes the rail connection visible: its museum occupies the station building itself.",
+  "history": "James Douglas Logan obtained the station refreshment room concession in 1884; the station precinct now contains a railway museum.",
+  "experience": {
+    "activity": "Explore Matjiesfontein’s heritage precinct and enquire about visits to the Lord Milner Hotel and Railway Museum.",
+    "site": "Lord Milner Hotel and Matjiesfontein heritage precinct",
+    "url": "https://www.matjiesfontein.com/",
+    "visitType": "separately_planned_trip"
+  },
+  "visitorNote": "The historical station list does not establish a current passenger service, train stop length, connection to the site, or visitor opening hours. Check access and transport before making plans.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lord_Milner_Hotel_at_Matjiesfontein.jpg",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Lord_Milner_Hotel_at_Matjiesfontein.jpg",
+    "creator": "Gregorydavid",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "alt": "Lord Milner Hotel in historic Matjiesfontein, photographed in 2007.",
+    "permissionContact": null
+  },
+  "sources": [
+    {
+      "claim": "Historical station order",
+      "url": "https://compcom.co.za/wp-content/uploads/2021/04/PTMI-Non-Confidential-14-April-2021-FINAL.pdf"
+    },
+    {
+      "claim": "Local history and visitor site",
+      "url": "https://www.matjiesfontein.com/"
+    }
+  ]
+}
