@@ -1,0 +1,39 @@
+{
+  "id": "laingsburg",
+  "name": "Laingsburg",
+  "province": "Western Cape",
+  "routeId": "transitforge-pretoria-cape-town",
+  "leg": 2,
+  "historicalStationPosition": 11,
+  "category": "supporting",
+  "researchChecked": "2026-09-23",
+  "railStatus": "historical_route_simulation",
+  "story": "Laingsburg asks us to pause: the devastating flood of 1981 is remembered in the town rather than reduced to a date on the route.",
+  "history": "Laingsburg Municipality records the great flood of 25 January 1981 and identifies the town’s surviving older buildings.",
+  "experience": {
+    "activity": "Visit the Flood Museum and learn about the flood route.",
+    "site": "Laingsburg Flood Museum",
+    "url": "https://laingsburg.co.za/attractions/",
+    "visitType": "separately_planned_trip"
+  },
+  "visitorNote": "The historical station list does not establish a current passenger service, train stop length, connection to the site, or visitor opening hours. Check access and transport before making plans.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laingsburg_Flood_Museum.jpg",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Laingsburg_Flood_Museum.jpg",
+    "creator": "flowcomm",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "alt": "Laingsburg Flood Museum exterior, where the 1981 flood is remembered; confirm opening arrangements.",
+    "permissionContact": null
+  },
+  "sources": [
+    {
+      "claim": "Historical station order",
+      "url": "https://compcom.co.za/wp-content/uploads/2021/04/PTMI-Non-Confidential-14-April-2021-FINAL.pdf"
+    },
+    {
+      "claim": "Local history and visitor site",
+      "url": "https://laingsburg.co.za/attractions/"
+    }
+  ]
+}

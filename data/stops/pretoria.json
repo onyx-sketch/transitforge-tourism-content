@@ -1,0 +1,23 @@
+{
+  "id": "pretoria",
+  "name": "Pretoria",
+  "province": "Gauteng",
+  "researchChecked": "2026-09-23",
+  "routeRole": "Starting city for Lerato's Gautrain leg",
+  "station": "Pretoria Gautrain Station",
+  "story": "Lerato begins her journey in Pretoria. Before boarding Gautrain, Rails & Roots can introduce the city's heritage and give her a reason to explore it on a separate visit.",
+  "experienceIds": [
+    "freedom-park"
+  ],
+  "visitorNote": "Freedom Park is a separate attraction. Its travel time and access from Pretoria Gautrain Station have not been verified.",
+  "sources": [
+    {
+      "title": "Gautrain commuter network",
+      "url": "https://www.gautrain.co.za/commuter/generalinformation"
+    },
+    {
+      "title": "Freedom Park",
+      "url": "https://www.freedompark.co.za/"
+    }
+  ]
+}

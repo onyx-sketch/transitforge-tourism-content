@@ -1,0 +1,76 @@
+{
+  "id": "transitforge-pretoria-cape-town",
+  "name": "Pretoria to Cape Town via Johannesburg",
+  "researchChecked": "2026-09-23",
+  "journeyType": "Operating Gautrain leg followed by a simulated historical rail leg",
+  "legs": [
+    {
+      "id": "pretoria-to-johannesburg",
+      "service": "Gautrain",
+      "status": "operating",
+      "stations": [
+        "Pretoria",
+        "Centurion",
+        "Midrand",
+        "Sandton",
+        "Rosebank",
+        "Gautrain Park Station"
+      ]
+    },
+    {
+      "id": "johannesburg-to-cape-town",
+      "service": "PRASA Shosholoza Meyl",
+      "status": "simulation_only",
+      "statusNote": "The Johannesburg to Cape Town service was reported suspended in March 2026. No operating departure has been verified for this prototype.",
+      "stationListType": "historically_documented",
+      "stations": [
+        "Johannesburg Park Station",
+        "Krugersdorp",
+        "Potchefstroom",
+        "Klerksdorp",
+        "Bloemhof",
+        "Christiana",
+        "Warrenton",
+        "Kimberley",
+        "De Aar",
+        "Hutchinson",
+        "Beaufort West",
+        "Laingsburg",
+        "Matjiesfontein",
+        "Worcester",
+        "Wellington",
+        "Huguenot",
+        "Bellville",
+        "Cape Town"
+      ]
+    }
+  ],
+  "interchange": {
+    "city": "Johannesburg",
+    "from": "Gautrain Park Station",
+    "fromAddress": "123 Eloff St, Braamfontein, Johannesburg, 2000",
+    "to": "Johannesburg Park Station",
+    "toAddress": "96 Rissik St, Johannesburg, 2000",
+    "explanation": "Lerato leaves the Gautrain service and finds the separate Johannesburg Park Station area used for the historical long-distance route.",
+    "walkingMapEstimate": "About 500 metres and 6 minutes between the selected address pins in the team's map check; this is not a platform-to-platform transfer time."
+  },
+  "tourismPurpose": "Help travellers discover researched places along the journey and save places they may want to visit on a future domestic trip.",
+  "sources": [
+    {
+      "title": "Gautrain commuter services and stations",
+      "url": "https://www.gautrain.co.za/commuter/generalinformation"
+    },
+    {
+      "title": "Gautrain Park Station location and adjacency",
+      "url": "https://www.gautrain.co.za/commuter/stationinfo?stationName=Park"
+    },
+    {
+      "title": "Competition Commission passenger transport inquiry, paragraph 6.27",
+      "url": "https://compcom.co.za/wp-content/uploads/2021/04/PTMI-Non-Confidential-14-April-2021-FINAL.pdf"
+    },
+    {
+      "title": "GroundUp report on suspended Shosholoza Meyl services, March 2026",
+      "url": "https://groundup.org.za/article/uncertainty-surrounds-prasas-long-distance-train-plans/"
+    }
+  ]
+}

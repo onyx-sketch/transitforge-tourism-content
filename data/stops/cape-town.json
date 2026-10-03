@@ -1,0 +1,28 @@
+{
+  "id": "cape-town",
+  "name": "Cape Town",
+  "province": "Western Cape",
+  "researchChecked": "2026-09-23",
+  "routeRole": "Destination of the simulated historical route",
+  "story": "Cape Town ends Lerato's simulated rail journey. Rails & Roots can turn arrival into a choice of future experiences: learning about neighbourhood history, exploring local food, or planning time in the natural landscape.",
+  "experienceIds": [
+    "bo-kaap",
+    "bo-kaap-food",
+    "table-mountain"
+  ],
+  "visitorNote": "These experiences are separate from the railway station. Check transport, access, opening times and costs for any actual visit.",
+  "sources": [
+    {
+      "title": "Competition Commission: historical station sequence",
+      "url": "https://compcom.co.za/wp-content/uploads/2021/04/PTMI-Non-Confidential-14-April-2021-FINAL.pdf"
+    },
+    {
+      "title": "Cape Town Tourism: Bo-Kaap",
+      "url": "https://www.capetown.travel/neighbourhood/bo-kaap/"
+    },
+    {
+      "title": "Table Mountain Aerial Cableway",
+      "url": "https://www.tablemountain.net/"
+    }
+  ]
+}

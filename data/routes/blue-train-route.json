@@ -1,0 +1,20 @@
+{
+  "id": "blue-train-pretoria-cape-town",
+  "name": "The Blue Train: Pretoria to Cape Town",
+  "operator": "The Blue Train",
+  "researchChecked": "2026-09-23",
+  "status": "operator_listed_route",
+  "origin": "Pretoria",
+  "destination": "Cape Town",
+  "journeyRole": "Separate route choice in Rails & Roots",
+  "description": "The operator lists Pretoria to Cape Town among its regular routes.",
+  "confirmedIntermediateStops": [],
+  "stopNote": "No complete current station sequence has been verified for this record. Do not copy stops from the Shosholoza Meyl route.",
+  "travelNote": "Confirm the departure date, boarding location, itinerary, fare and availability with the operator.",
+  "sources": [
+    {
+      "title": "The Blue Train: regular routes",
+      "url": "https://www.bluetrain.co.za/"
+    }
+  ]
+}

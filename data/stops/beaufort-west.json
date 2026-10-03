@@ -1,0 +1,32 @@
+{
+  "id": "beaufort-west",
+  "name": "Beaufort West",
+  "province": "Western Cape",
+  "researchChecked": "2026-09-23",
+  "routeRole": "Historically documented Shosholoza Meyl stop; featured tourism place",
+  "station": "Beaufort West",
+  "story": "As Lerato's simulated journey crosses the Karoo, Beaufort West becomes more than a name on the route. The town offers a way to explore local history at the Beaufort West Museum, while Karoo National Park offers a separate visit focused on the landscape and natural heritage. Rails & Roots helps her discover these possibilities and save them for a future trip.",
+  "experienceIds": [
+    "beaufort-west-museum",
+    "karoo-national-park"
+  ],
+  "visitorNote": "The museum and national park are separate from the railway station. This record does not confirm a current passenger train, a station-to-attraction transfer, opening hours, entry fees or whether either place can be visited during a train stop. Check each attraction before planning a visit.",
+  "sources": [
+    {
+      "title": "Competition Commission: historical Shosholoza Meyl station sequence, paragraph 6.27",
+      "url": "https://compcom.co.za/wp-content/uploads/2021/04/PTMI-Non-Confidential-14-April-2021-FINAL.pdf"
+    },
+    {
+      "title": "Beaufort West Tourism: Beaufort West Museum",
+      "url": "https://beaufortwest.net/explore/beaufort-west/attractions/beaufort-west-museum.html"
+    },
+    {
+      "title": "SANParks: Karoo National Park",
+      "url": "https://www.sanparks.org/parks/karoo"
+    },
+    {
+      "title": "SANParks: directions to Karoo National Park",
+      "url": "https://www.sanparks.org/parks/karoo/travel/how-to-get-there"
+    }
+  ]
+}
