@@ -2,7 +2,7 @@
 
 > **What if the place outside your train window became your next South African trip?**
 
-Rails & Roots is TransitForge's interactive rail travel guide prototype. Follow Lerato from Pretoria on Gautrain, understand her change between the Gautrain and Johannesburg Park Station areas, and explore the stories along a simulated historic journey to Cape Town. Discover featured places, meet the smaller stops along the route and save destinations to investigate for a future domestic trip.
+Rails & Roots is TransitForge's interactive rail travel guide prototype. Explore researched destinations, culture and stories along the Pretoria-to-Cape Town journey concept. The Gautrain connection was part of the route research; interchange guidance was not developed as a feature in the team prototype. Discover featured places, meet the smaller stops along the route and save destinations to investigate for a future domestic trip.
 
 **Know before you go:** The Johannesburg–Cape Town Shosholoza Meyl leg in this prototype is a simulation, not a train you can book through Rails & Roots. Rovos Rail and The Blue Train are separate journey choices whose current details must be confirmed with their operators.
 
@@ -18,7 +18,7 @@ A route map can tell a traveller where they are. Rails & Roots also helps them u
 
 We demonstrate the product through **Lerato**, a first-time traveller beginning in Pretoria.
 
-Before boarding, Lerato explores the Rails & Roots prototype. She can look at the available journey choices, including separate journeys published by Rovos Rail and The Blue Train. For this demonstration, she chooses the TransitForge experience connecting a Gautrain ride, a Johannesburg interchange and a simulated journey towards Cape Town, whose guide content Rails & Roots preloads before her journey.
+Lerato is the traveller persona used to explain the researched journey. The original concept connected Pretoria and Johannesburg with a simulated historic corridor towards Cape Town. The Gautrain connection and the change between services are research context, not a demonstrated interchange feature in the team application.
 
 As she travels, Rails & Roots helps her in four ways:
 
@@ -39,13 +39,13 @@ The prototype presents the route as one connected travel experience. Its purpose
 
 ### Pretoria to Johannesburg
 
-Lerato's journey begins in **Pretoria** and follows the Gautrain route towards Johannesburg:
+The original route research considered a Gautrain connection from **Pretoria** towards Johannesburg:
 
 **Pretoria → Centurion → Midrand → Sandton → Rosebank → Park**
 
-These stations represent the first part of her journey.
+These stations document the researched connection; they do not establish that this leg or its interchange was implemented in the team application.
 
-Rails & Roots uses this section to establish the beginning of the Pretoria-to-Cape Town experience and show Lerato's progress towards Johannesburg. The prototype does not sell Gautrain tickets or replace Gautrain's own journey-planning services.
+This section records the starting concept for the Pretoria-to-Cape Town challenge. It does not advertise Gautrain journey planning or interchange guidance as delivered application features.
 
 ### Johannesburg to Cape Town
 
@@ -55,7 +55,7 @@ The route used for the Rails & Roots demonstration is:
 
 **Johannesburg Park → Krugersdorp → Potchefstroom → Klerksdorp → Bloemhof → Christiana → Warrenton → Kimberley → De Aar → Hutchinson → Beaufort West → Laingsburg → Matjiesfontein → Worcester → Wellington → Huguenot (Paarl area) → Bellville → Cape Town**
 
-This gives the Johannesburg-to-Cape Town section **19 stops, including Johannesburg Park and Cape Town**.
+This gives the Johannesburg-to-Cape Town section **18 listed places, including Johannesburg Park and Cape Town**.
 
 Rails & Roots uses these destinations as storytelling points throughout the journey. Some locations receive more detailed featured content, while the wider route helps travellers understand the towns, landscapes, attractions and cultural stories connected to the corridor.
 
